@@ -1,0 +1,23 @@
+h1{
+
+  font-family: sans-serif;
+  color: #00f;
+  text-align: center;
+  font-size: 56px;
+  line-height: normal;
+}
+h2{
+  color: #f00;
+  font-style: italic;
+  font-size: 40px;
+  text-align: left;
+}
+p{
+  text-align: left;
+  font-family: serif;
+}
+ol{
+  text-align: left;
+  font-style: italic;
+  line-height: 40px
+}
